@@ -1,6 +1,6 @@
 # LITE VERSION SIAMIK
 
-![gambar program](/menu%20utama.png)
+![gambar program](https://github.com/akmalaa/Final-Project-UTS-pemlan-kelompok-5/blob/22f5580164a2b212060462b7dd500d06a75ea1fb/markdown%20siamik%20001/tampil%20data.png)
 
 #### anggota kelomopok
 
@@ -14,7 +14,8 @@
 
 ## deskripsi project akhir
 
-final project kita meniru cara kerja dari siamik, website untuk menginput data mahasiswa, data mata kuliah yang diikuti dan dosen pengampu
+final project kita meniru cara kerja dari siamik, website untuk menginput data mahasiswa, data mata kuliah yang diikuti dan dosen pengampu![tampil data](https://user-images.githubusercontent.com/90669229/147521249-22e3c1c2-c09b-4c42-9065-867ce9922a48.png)
+
 
 ## data yang digunakan
 untuk data yang kita gunakan yaitu antara lain:
@@ -44,9 +45,9 @@ pada tampilan awal program ada 4 pilihan,
 
 ## cara penggunaan aplikasi
 saat program di run, maka keluar tampilan sebagai berikut
-![gambar program](/menu%20utama.png)
+![gambar program](https://github.com/akmalaa/Final-Project-UTS-pemlan-kelompok-5/blob/22f5580164a2b212060462b7dd500d06a75ea1fb/markdown%20siamik%20001/menu%20utama.png)
 pada halaman ini terdapat 4 pilihan, yaitu input data, tampilkan data, cari data dan selesai, jika kita pilih input maka halaman akan berpindah ke halaman input
-![program input](/input%20data.png)
+![program input](https://github.com/akmalaa/Final-Project-UTS-pemlan-kelompok-5/blob/22f5580164a2b212060462b7dd500d06a75ea1fb/markdown%20siamik%20001/input%20data.png)
 pada halaman ini user bisa menginput data seperti nama, npm, dan matkul yang diikuti. kemudian, jika kita pilih no 2 yaitu tampilkan data, maka akan menampilkan data yang sudah diinput
 ![tampil data](tampil%20data.png)
 kemudian, jika kita pilih 3 maka halaman akan berpindah ke layar pencarian
